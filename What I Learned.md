@@ -4,5 +4,7 @@
 - How to upload files and insert images using the URL technique
 - How to request a pull request and commit files 
 - how to comment and review changes 
+- How to create a **repository** and make markdown cells/upload files 
 
-*There was not anything I was confused on*
+
+*There was not anything I was particulary confused on*
